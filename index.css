@@ -1,0 +1,53 @@
+
+h2{
+    color: rgb(253, 255, 255);
+     position:relative;
+    margin-left: 12%;
+    top: 10px;
+
+    
+}
+.flex{
+    /* background-image: url(./images/Vector\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+}
+h1{
+    color: aliceblue;
+    position: relative;
+    /* padding: 12%; */
+    font-size: 60pt;
+    font-family: ''Arial Narrow';
+    margin-right: 12px;
+    top: 80px;
+   }
+
+
+
+.blackimage{
+    width: 1920px;
+
+    position: absolute;
+}
+.ovals{
+    position: relative;
+    float: right;
+    padding: 70px;
+    width: 100%;
+    top: 70px
+    
+    ;
+}
+
+h4{
+    color: aliceblue;
+    position: relative;
+  
+    font-size: 14pt;
+   
+    margin-right: 12px;
+
+}
